@@ -82,6 +82,8 @@ Aquí pasa lo interesante:
 - Gaps (qué te falta)
 - Ideas para mejorar
 
+### _Pendiente de actualizar (suscríbete al repo o vuelve en unos días)_
+
 ---
 
 ## 📁 05_prompts
@@ -94,6 +96,8 @@ Prompts listos para usar:
 
 👉 Copiar, pegar, adaptar.
 
+### _Pendiente de actualizar (suscríbete al repo o vuelve en unos días)_
+
 ---
 
 ## 📁 06_herramientas
@@ -104,10 +108,14 @@ Resumen de herramientas usadas:
 - ChatGPT
 - Otras
 
+### _Pendiente de actualizar (suscríbete al repo o vuelve en unos días)_
+
 ---
 
 ## 📁 07_workflows
 Explicación del proceso completo paso a paso
+
+### _Pendiente de actualizar (suscríbete al repo o vuelve en unos días)_
 
 ---
 
@@ -145,6 +153,50 @@ Haz esto:
 5. Aplica  
 
 Y repite.
+
+---
+
+# 🔔 ¿Cómo enterarte de las actualizaciones?
+
+Si este repositorio te interesa (spoiler: debería), puedes hacer que GitHub te avise cuando haya cambios.
+
+No necesitas saber programación ni nada raro:
+
+---
+
+#### ✅ Opción 1 – Recibir notificaciones (la más fácil)
+
+1. Arriba del todo, busca el botón **"Watch"** (👁️)
+2. Haz clic
+3. Selecciona **"All Activity"** o **"Custom → Releases / Discussions"**
+
+👉 A partir de ahí, GitHub te avisará cuando haya novedades.
+
+---
+
+#### ⭐ Opción 2 – Guardarlo como favorito
+
+1. Haz clic en **"Star"** (⭐)
+
+👉 No te avisa, pero lo tendrás guardado fácilmente para volver cuando quieras.
+
+---
+
+#### 🔄 Opción 3 – Volver en unos días (modo clásico)
+
+Sí, también puedes simplemente volver más adelante.
+
+Pero luego no digas que no te avisé 😏
+
+---
+
+#### 💡 Consejo
+
+Si no usas GitHub habitualmente:
+
+👉 Usa "Star" + guarda el enlace en tus favoritos del navegador
+
+Así no dependes de acordarte (que no va a pasar).
 
 ---
 
